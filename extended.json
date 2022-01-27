@@ -19,8 +19,8 @@
         },
         "about": {
             "me": "5 year Navy vet, 30 year Aviation Maintenance/spare time 20 year Computer Hardware experience ",
-            "server": "1 Blockproducer 1 Relay/backup Block producer Locally Ubuntu 20.04 LTS servers,
-            "server": "1 Relay Dallas, 1 Los Angeles, 1 relay in Chicago, and 1 relay in Washington D.C. Ubuntu 20.04 LTS servers,
+            "server": "1 Blockproducer 1 Relay/backup Block producer Locally Ubuntu 20.04 LTS servers",
+            "server": "1 Relay Dallas, 1 Los Angeles, 1 relay in Chicago, and 1 relay in Washington D.C. Ubuntu 20.04 LTS servers",
             "company": "RackNerd"
                       },
         "my-pool-id": {
