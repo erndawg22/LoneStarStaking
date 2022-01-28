@@ -1,2 +1,0 @@
-# LoneStarStaking
-Cardano Staking Pool
