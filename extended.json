@@ -1,6 +1,5 @@
 {
     "info": {
-        "verification":"9a47cd8ad347b39287"
         "url_png_icon_64x64": "https://lonestarstaking.net/"
         "url_png_logo": ""
         "location": "Fort Worth, TX USA",
@@ -21,7 +20,7 @@
         "about": {
             "me": "5 year Navy vet, 30 year Aviation Maintenance/spare time 20 year Computer Hardware experience ",
             "server": "1 Main Blockproducer 1 standby Block producer in New York Ubuntu 20.04 LTS servers",
-            "server": "1 Relay Dallas, 1 Seattle, and 1 relay in Washington D.C. Ubuntu 20.04 LTS servers",
+            "server": "4 Relays in Dallas, Seattle, Washington D.C. and bare metal in London U.K. Ubuntu 20.04 LTS servers",
             "company": "RackNerd"
                       },
         "my-pool-id": {
