@@ -1,16 +1,16 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://lonestarstaking.net/"
-        "url_png_logo": ""
+        "url_png_icon_64x64": "https://lonestarstaking.net/",
+        "url_png_logo": "",
         "location": "Fort Worth, TX USA",
         "social": {
-            "instagram_handle": ""
+            "instagram_handle": "",
             "discord_handle": "https://discord.gg/Erndawg[LSSP]#1630",
             "reddit_handle": "https://www.reddit.com/user/erndawg/",
             "twitter_handle": "lonestarstaking",
-            "facebook_handle": ""
-            "youtube_handle": ""
-            "twitch_handle": ""
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
             "telegram_handle": "erndawg",
             "github_handle": "erndawg22"
         },
@@ -24,7 +24,7 @@
             "company": "RackNerd"
                       },
         "my-pool-id": {
-        "0": "01fbe26f514707ff29c38aa597ad8ff86a1572e760858d0e7ae4fc32",
+        "0": "01fbe26f514707ff29c38aa597ad8ff86a1572e760858d0e7ae4fc32"
        }          
     }              
  }
